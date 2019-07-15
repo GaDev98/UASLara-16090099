@@ -1,0 +1,5 @@
+/* CSS Genre List AnimeKompi - Aka321 */
+.akgenres321{overflow:hidden;font-size:13px;    margin-left: -4px !important;margin-right: -4px !important;line-height: 21px !important;font-family: tahoma;list-style: none !important;padding: 0px !important;margin: 0px !important;}
+.akgenres321 li{line-height: 21px !important;float: left;list-style: none !important;}
+.akgenres321 li a{background:#F5F5F5;color: #0176C9 !important;padding:3px 10px;border:1px solid #DDD;display:block;margin:4px;width:93px;border-radius:3px}
+.akgenres321 li a:hover{background:#0091D0;color:#FFF !important;text-decoration:none;border:1px solid #FFF;box-shadow:0 1px 1px #DDD}
